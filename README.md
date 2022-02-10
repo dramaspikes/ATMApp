@@ -1,4 +1,5 @@
 # ATMApp
+Basic simulation of an ATM user interface, using Angular framework and components.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
